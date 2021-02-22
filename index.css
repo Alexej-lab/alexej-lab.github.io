@@ -16,7 +16,7 @@ body {
 }
 .main-div {
 	width: 100%;
-	height: 5000%;
+	height: auto;
 	background-color: white;
 }
 
@@ -27,5 +27,11 @@ body {
 	transform: translate(0, -50%);
 	width: 50%;
 	height: auto;
+}
+
+#introduction {
+	background-color: grey;
+	width: 100%;
+	height: 100px;
 }
 
